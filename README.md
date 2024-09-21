@@ -1,1 +1,1 @@
-# SEG-TUTORIAL1
+Bienvenue dans notre projet ! # SEG-TUTORIAL1
